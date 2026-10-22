@@ -45,7 +45,7 @@ Ne reponds pas a la question. Renvoie uniquement la question reecrite, sur une s
 
 # --- Interface ---------------------------------------------------------------
 st.set_page_config(page_title="Logi – Assistant logement", page_icon="🏠", layout="centered")
-st.title("🏠 Logi")
+st.title("🏠 Logi - Assistant logement")
 st.caption("Votre assistant IA basé sur les sources officielles (CAF, Visale, CROUS, Service-Public)")
 st.info("Version bêta : les réponses peuvent contenir des erreurs. "
         "Vérifiez toujours sur les sites officiels avant toute démarche.")
