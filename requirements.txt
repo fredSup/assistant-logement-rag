@@ -1,0 +1,7 @@
+streamlit
+groq
+langchain-community
+langchain-chroma
+langchain-text-splitters
+fastembed
+beautifulsoup4

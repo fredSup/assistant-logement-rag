@@ -1,0 +1,15 @@
+# Secrets : ne JAMAIS publier
+.streamlit/secrets.toml
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Modeles locaux (trop lourds pour GitHub)
+*.gguf
+
+archive/
+.agents/
